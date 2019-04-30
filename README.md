@@ -32,7 +32,7 @@
 [구글](http://google.com)
 네이버: <https://naver.com>
 
-##이미지
+## 이미지
 ![대체텍스트][./img/그림파일.jpg]
 ## 코드
 ''''
